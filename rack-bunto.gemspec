@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
 
  s.summary     = "Transform your Bunto app into a Rack application."
  s.description = "Rack-Bunto transforms your Bunto app into a Rack application."
+ s.licenses    = ['Copyright']
 
  s.authors  = ["Bryan Goines", "Suriyaa Kudo", "Adão Raul"]
  s.email    = ["adao.raul@gmail.com", "SuriyaaKudoIsc@users.noreply.github.com"]
