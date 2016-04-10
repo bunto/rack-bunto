@@ -1,5 +1,7 @@
 # Rack-Bunto
 
+[![Security](https://hakiri.io/github/bunto/rack-bunto/master.svg)](https://hakiri.io/github/bunto/rack-bunto/master)
+
 > **Transform your [Bunto](https://bunto.github.io/) app
 into a [Rack](https://github.com/rack/rack) application.**
 
