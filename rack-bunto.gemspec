@@ -34,7 +34,8 @@ Gem::Specification.new do |s|
  s.required_ruby_version = '>= 1.9.3'
 
  s.add_dependency "bunto", ">= 2.0"
- s.add_dependency "rack", "~> 1.5"
+ ## Fix Hakiri "rack gem" warnings (https://hakiri.io/projects/5fb790ed262d7a/stacks/9b9e90f070704f/builds/e75e54c5eeb21a/warnings)
+ s.add_dependency "rack", ">= 1.6.2"
  s.add_dependency "listen", ">= 1.3"
 
  s.add_development_dependency "rake"
